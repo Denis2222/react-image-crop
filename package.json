@@ -1,8 +1,8 @@
 {
-  "name": "react-image-crop",
+  "name": "react-image-crop-up",
   "version": "8.6.7",
   "description": "A responsive image cropping tool for React",
-  "repository": "https://github.com/DominicTobias/react-image-crop",
+  "repository": "https://github.com/Denis2222/react-image-crop-up",
   "main": "dist/ReactCrop.min.js",
   "style": "dist/ReactCrop.css",
   "browserslist": "last 3 versions, not IE > 0",
