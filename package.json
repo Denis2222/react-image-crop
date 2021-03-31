@@ -13,7 +13,7 @@
     "build:css": "node-sass lib/ReactCrop.scss dist/ReactCrop.css",
     "build": "npm run build:js && npm run build:css",
     "prepare": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "echo \"react-image-crop-up ready up\" && npm run build"
   },
   "author": "Dominic Tobias (https://github.com/DominicTobias/)",
